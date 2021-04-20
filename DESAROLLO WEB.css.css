@@ -1,0 +1,42 @@
+.jojo{
+	padding: 60px;
+	width: 250px;
+	margin: auto;
+	/*transform: scale(1.7);*/
+	margin-right:50px;
+	margin-left:400px;
+}
+.buu{
+	background-image: url(../img/c-lenguaje-programacion.jpg)
+}
+h1{
+	padding: 30px;
+	width: 250px;
+	margin: auto;
+	transform: scale(1.7) ;
+	font-family: 'Press Start 2P', cursive;
+	color: black;
+	background:linear-gradient(to left , #080675,#0167ff);
+}
+.button{
+	padding: 3000px;
+	border-radius: 30px;
+ 	border: solid 5px black;
+	background:#000ca5;
+	color: black;
+	padding: 10px;
+	cursor: pointer;
+	font-size: 80px;
+	background: linear-gradient(to left , #080675,#0167ff);
+	text-decoration: none;
+	margin-right:50px;
+	margin-left:60px;
+}
+.img{
+	padding: 60px;
+	width: 250px;
+	margin: auto;
+	/*transform: scale(1.7);*/
+	margin-left:-400px;
+	margin-top: -1000px;
+}
